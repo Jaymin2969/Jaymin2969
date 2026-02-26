@@ -1,18 +1,17 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/Jaymin2969/Jaymin2969/main/github_banner_jaymin_patel.png" alt="Jaymin Patel Banner" width="100%" />
-</p>p>
 
 # The Flashpoint: Mastering the Speed of Innovation
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&lines=I+am+Jaymin+Patel.;Senior+Fullstack+%2B+Mobile+Architect.;I+build+and+ship+faster+than+thought.;7%2B+Years+of+Engineering+Excellence." alt="Typing Animation" />
-</p>p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Jaymin2969/Jaymin2969/master/github_banner_jaymin_patel.png" alt="Jaymin Patel Banner" width="100%" />
+
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&lines=I+am+Jaymin+Patel.;Senior+Fullstack+%2B+Mobile+Architect.;I+build+and+ship+faster+than+thought.;7%2B+Years+of+Engineering+Excellence.)](https://git.io/typing-svg)
+</div>
 
 ---
 
 ### About Me
 
-I am a **Senior Fullstack & Mobile Architect** with over 7 years of deep-tech experience. I don't just write code; I engineer solutions that are scalable, high-performance, and user-centric. My journey began with a passion for **JavaScript**, and it has evolved into a mastery of the modern web and mobile ecosystems.
+I am a **Senior Fullstack & Mobile Architect** with over 7 years of engineering experience. I build products that scale, from complex web apps to production-ready streaming mobile applications.
 
 > "Speed is the byproduct of mastery. I build for speed, scale, and stability."
 >
@@ -29,50 +28,34 @@ I am a **Senior Fullstack & Mobile Architect** with over 7 years of deep-tech ex
 >
 > ---
 >
-> ### Loadout: Tech Stack
+> ### Tech Stack
 >
-> <p align="center">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-</p>p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Android_TV-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Apple_TV-000000?style=for-the-badge&logo=apple&logoColor=white" />
-</p>p>
-
----
-
-### Stream Overlay: Performance Metrics
-
-<p align="center">
+> - **Langs:** JavaScript, TypeScript, PHP
+> - - **Frontend:** React, Next.js, HTML5, CSS3
+>   - - **Mobile:** React Native (iOS/Android), Android TV, Apple TV (tvOS)
+>     - - **Backend:** Node.js, Express, GraphQL, Firebase
+>       - - **DBs:** MongoDB, MySQL, PostgreSQL
+>        
+>         - ---
+>
+> ### Performance Metrics
+>
+> <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Jaymin2969&show_icons=true&theme=reactive&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=F7DF1E" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaymin2969&layout=compact&theme=reactive&hide_border=true&bg_color=0D1117&text_color=FFFFFF" width="48%" />
-</p>p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaymin2969&layout=compact&theme=reactive&hide_border=true&bg_color=0D1117&text_color=FFFFFF" width="41%" />
+</div>
 
 ---
 
-### Let's Architect the Future
+### Contact Info
 
-If you need a developer who bridges the gap between complex business logic and stunning user experiences, let's talk.
+- [pateljaymin2969@gmail.com](mailto:pateljaymin2969@gmail.com)
+- - [LinkedIn](https://linkedin.com/in/jayminpatel)
+  - - [Telegram](https://t.me/jayminpatel)
+   
+    - ---
 
-[pateljaymin2969@gmail.com](mailto:pateljaymin2969@gmail.com) | [LinkedIn](https://linkedin.com/in/jayminpatel) | [Telegram](https://t.me/jayminpatel)
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=pateljaymin2969&color=f7df1e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>p>
-
----
-
-<p align="center">
-<i>"Always shipping. Always learning. Always fast."</i>i>
-</p>p></i>
+    <div align="center">
+    <i>"Always shipping. Always learning. Always fast."</i>i>
+    </div>div>
+    </i>
