@@ -1,61 +1,46 @@
-
-# The Flashpoint: Mastering the Speed of Innovation
+# Jaymin Patel - Senior Fullstack & Mobile Architect
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Jaymin2969/Jaymin2969/master/github_banner_jaymin_patel.png" alt="Jaymin Patel Banner" width="100%" />
-
-[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&lines=I+am+Jaymin+Patel.;Senior+Fullstack+%2B+Mobile+Architect.;I+build+and+ship+faster+than+thought.;7%2B+Years+of+Engineering+Excellence.)](https://git.io/typing-svg)
-</div>
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&lines=I+am+Jaymin+Patel.;Senior+Fullstack+%2B+Mobile+Architect.;I+build+and+ship+faster+than+thought.;7+Years+of+Engineering+Excellence.)](https://git.io/typing-svg)
+</div>div>
 
 ---
 
 ### About Me
 
-I am a **Senior Fullstack & Mobile Architect** with over 7 years of engineering experience. I build products that scale, from complex web apps to production-ready streaming mobile applications.
+Senior Fullstack and Mobile Architect with 7+ years of experience in building scalable products. Expert in React Native, Node.js, and high-performance system architecture.
 
-> "Speed is the byproduct of mastery. I build for speed, scale, and stability."
->
-> ---
->
-> ### Player Card: Senior Engineer Level 100
->
-> | Specialization | Expertise Level | Weapon of Choice |
-> | :--- | :--- | :--- |
-> | **Mobile Development** | Master | React Native |
-> | **Backend Architecture** | Expert | Node.js / Express |
-> | **UI/UX Engineering** | Specialist | React / Next.js |
-> | **Streaming / OTT** | Specialist | HLS/DASH / DRM |
->
-> ---
->
-> ### Tech Stack
->
-> - **Langs:** JavaScript, TypeScript, PHP
-> - - **Frontend:** React, Next.js, HTML5, CSS3
->   - - **Mobile:** React Native (iOS/Android), Android TV, Apple TV (tvOS)
->     - - **Backend:** Node.js, Express, GraphQL, Firebase
->       - - **DBs:** MongoDB, MySQL, PostgreSQL
->        
->         - ---
->
-> ### Performance Metrics
->
-> <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jaymin2969&show_icons=true&theme=reactive&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=F7DF1E" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaymin2969&layout=compact&theme=reactive&hide_border=true&bg_color=0D1117&text_color=FFFFFF" width="41%" />
-</div>
+### Player Card
 
----
+| Specialization | Expertise Level | Weapon |
+| :--- | :--- | :--- |
+| Mobile Dev | Master | React Native |
+| Backend | Expert | Node/Express |
+| UI/UX | Specialist | React/Next.js |
+| Streaming | OTT Expert | HLS/DRM |
 
-### Contact Info
+### Tech Stack
 
-- [pateljaymin2969@gmail.com](mailto:pateljaymin2969@gmail.com)
-- - [LinkedIn](https://linkedin.com/in/jayminpatel)
-  - - [Telegram](https://t.me/jayminpatel)
-   
-    - ---
+- **Langs:** JS, TS, PHP, Python
+- - **Frontend:** React, Next.js, HTML5, CSS3
+  - - **Mobile:** React Native, Android TV, tvOS
+    - - **Backend:** Node.js, GraphQL, Firebase
+      - - **DBs:** MongoDB, MySQL, PostgreSQL
+       
+        - ### Performance Metrics
+       
+        - <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Jaymin2969&theme=tokyonight&show_icons=true" width="48%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaymin2969&theme=tokyonight&layout=compact" width="41%" />
+        </div>
 
-    <div align="center">
-    <i>"Always shipping. Always learning. Always fast."</i>i>
-    </div>div>
-    </i>
+        ### Contact
+
+        - [pateljaymin2969@gmail.com](mailto:pateljaymin2969@gmail.com)
+        - - [LinkedIn](https://linkedin.com/in/jayminpatel)
+          - - [Telegram](https://t.me/jayminpatel)
+           
+            - <div align="center">
+            <i>"Always shipping. Always learning. Always fast."</i>
+            </div>
+            
