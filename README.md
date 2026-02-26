@@ -8,7 +8,7 @@
 
 ### About Me
 
-I am a **Senior Fullstack & Mobile Architect** with over 7 years of deep-tech experience. I don't just write code; I engineer solutions that are scalable, high-performance, and user-centric. My journey began with a passion for **JavaScript**, and it has evolved into a mastery of the modern web and mobile ecosystems.
+I am a **Senior Fullstack & Mobile Architect** with over 7 years of deep-tech experience. I don't just write code; I engineer solutions that are scalable, high-performance, and user-centric.
 
 ---
 
@@ -25,11 +25,11 @@ I am a **Senior Fullstack & Mobile Architect** with over 7 years of deep-tech ex
 
 ### Tech Stack
 
-- **Languages:** JavaScript, TypeScript, PHP
+- **Langs:** JavaScript, TypeScript, PHP
 - - **Frontend:** React, Next.js, HTML5, CSS3
-  - - **Mobile:** React Native, Android TV, Apple TV
+  - - **Mobile:** React Native (iOS/Android), Android TV, Apple TV
     - - **Backend:** Node.js, Express, GraphQL, Firebase
-      - - **Databases:** MongoDB, MySQL, PostgreSQL
+      - - **DBs:** MongoDB, MySQL, PostgreSQL
        
         - ---
 
@@ -41,30 +41,28 @@ I am a **Senior Fullstack & Mobile Architect** with over 7 years of deep-tech ex
         </div>div>
 
         <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pateljaymin2969&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaymin2969&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
         </div>div>
 
         <div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=pateljaymin2969&theme=tokyonight&no-bg=true&margin-w=4" width="100%" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Jaymin2969&theme=tokyonight&no-bg=true&margin-w=4" width="100%" />
         </div>div>
 
         ---
 
-        ### Contact Info
-
-        If you need a developer who bridges the gap between complex business logic and stunning user experiences, let's talk.
+        ### Let's Architect the Future
 
         - [pateljaymin2969@gmail.com](mailto:pateljaymin2969@gmail.com)
         - - [LinkedIn](https://linkedin.com/in/jayminpatel)
           - - [Telegram](https://t.me/jayminpatel)
            
             - <div align="center">
-            <img src="https://komarev.com/ghpvc/?username=pateljaymin2969&color=f7df1e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+            <img src="https://komarev.com/ghpvc/?username=Jaymin2969&color=f7df1e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
             </div>
 
             ---
 
-            <div align="center">
+            <p align="center">
             <i>"Always shipping. Always learning. Always fast."</i>i>
-            </div>div>
+            </p>p>
             </i>
