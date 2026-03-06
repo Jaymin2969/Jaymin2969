@@ -1,5 +1,11 @@
 # The Flashpoint: Mastering the Speed of Innovation
-<img width="640" left='200px' height="640" alt="jaymin_tech_banner_1772133731804" src="https://github.com/user-attachments/assets/3bc4b4d5-68de-408b-b178-d60437e757a2" style="margin-left: 10pc" />
+<div align="center">
+
+<img width="340" height="340" alt="jaymin_tech_banner_1772133731804"
+src="https://github.com/user-attachments/assets/3bc4b4d5-68de-408b-b178-d60437e757a2" />
+
+</div>
+
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&lines=I+am+Jaymin+Patel.;Senior+Fullstack+%2B+Mobile+Architect.;I+build+and+ship+faster+than+thought.;7+Years+of+Engineering+Excellence.)
 
